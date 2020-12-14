@@ -25,3 +25,25 @@ We need to change the connection sttring in order to connect this newly created 
 in data source  put name of your database
 
 And we are ready to run the project
+
+## Software Specification
+
+- Visual Studio -2019
+- .Net Framework 4.8
+- Mvc Framework 5
+- Entity Framework 3.0
+## Database Specification
+- SSMS-2019
+- SQL Server 2019
+
+## Design Technologies
+- CSS
+- HTML
+- Boot Strap
+- Jquery (3.5.1) 
+```html
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+```
+- Toastr.js
+- AOS libraries
+- Jquery Ajax
