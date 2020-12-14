@@ -24,3 +24,4 @@ We need to change the connection sttring in order to connect this newly created 
 ```
 in data source  put name of your database
 
+And we are ready to run the project
